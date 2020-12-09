@@ -2,6 +2,11 @@
 ## 
 ### All Labs listed below are completed in my academic-course related to **Image Processing**.
 
+Clone the Repo using following command in Terminal:
+```py
+https://gitlab.com/ARohitt/vision-based-automation-lab.git
+```
+
 | Name of File  | Description of Lab | Output/Result     |
 |--------|----------|--------|
 | Lab1.py| Capture Image and Video <br /> from webcam of laptop.|<img src = "Results/CameraImage.png" width="150"/>|
@@ -19,5 +24,5 @@
 
 
 
-Any suggestions or queries, contact me on rohit.asegaonkar18@vit.edu
+Any suggestions or queries, contact me on [ARohitt](rohit.asegaonkar18@vit.edu, "rohit.asegaonkar18@vit.edu").
 ###### USE THIS REPO FOR EDUCATIONAL OR ANY PURPOSE AND STAR THE REPO AFTER USING IT.
