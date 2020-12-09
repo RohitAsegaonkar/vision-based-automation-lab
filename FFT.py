@@ -23,12 +23,12 @@ def IFT(fshift):
 
 kernel = np.ones((3,3),np.float32)/9
 ms4 = FT(kernel)
-img1 = cv2.imread('cameraman.tif',0)
+img1 = cv2.imread('images/cameraman.tif',0)
 ms1 = FT(img1)
 
-img2 = cv2.imread('line3.png',0)
+img2 = cv2.imread('images/line3.png',0)
 ms2 = FT(img2)
-img3 = cv2.imread('line4.png',0)
+img3 = cv2.imread('images/line4.png',0)
 ms3 = FT(img3)
 
 

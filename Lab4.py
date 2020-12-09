@@ -7,7 +7,7 @@ import numpy as np
 import matplotlib.pyplot as plt 
    
 # Read an image 
-image = cv2.imread('cameraman.tif')
+image = cv2.imread('images/cameraman.tif')
 
 sobelx = cv2.Sobel(image,cv2.CV_64F,1,0,ksize=5)
 sobely = cv2.Sobel(image,cv2.CV_64F,0,1,ksize=5)

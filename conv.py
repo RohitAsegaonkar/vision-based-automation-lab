@@ -1,3 +1,7 @@
+# Author - Rohit Kishor Asegaonkar
+# Div-A                Batch - B1
+# Roll No.-09         Gr. No.- 11810636 
+
 # import the necessary packages
 from skimage.exposure import rescale_intensity
 import numpy as np
@@ -87,7 +91,7 @@ kernelBank = (
 )
 
 # load the input image and convert it to grayscale
-image = cv2.imread(args["cameraman.tif"])
+image = cv2.imread(args["images/cameraman.tif"])
 gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 # loop over the kernels
 for (kernelName, kernel) in kernelBank:

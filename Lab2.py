@@ -7,7 +7,7 @@ import numpy as np
 import matplotlib.pyplot as plt 
    
 # Read an image 
-image = cv2.imread('pout.tif') 
+image = cv2.imread('images/pout.tif') 
    
 # Apply log transformation method 
 c = 180

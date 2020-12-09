@@ -1,3 +1,7 @@
+# Author - Rohit Kishor Asegaonkar
+# Div-A                Batch - B1
+# Roll No.-09         Gr. No.- 11810636 
+
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 

@@ -1,8 +1,12 @@
+# Author - Rohit Kishor Asegaonkar
+# Div-A                Batch - B1
+# Roll No.-09         Gr. No.- 11810636 
+
 import numpy as np
 import cv2
 from matplotlib import pyplot as plt
 
-img = cv2.imread('cameraman.tif') # change for your own test image
+img = cv2.imread('images/cameraman.tif') # change for your own test image
 gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
 

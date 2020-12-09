@@ -7,7 +7,7 @@ import numpy as np
 import matplotlib.pyplot as plt 
    
 # Read an image 
-image = cv2.imread('cameraman.tif') 
+image = cv2.imread('images/cameraman.tif') 
    
 # Apply log transformation method 
 c = 255 / np.log(1 + np.max(image))

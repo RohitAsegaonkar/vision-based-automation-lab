@@ -6,7 +6,7 @@ import skimage.viewer
 
 
 # read and display the original image
-image = skimage.io.imread('coins.png')
+image = skimage.io.imread('images/coins.png')
 viewer = skimage.viewer.ImageViewer(image)
 viewer.show()
 
