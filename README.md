@@ -24,5 +24,5 @@ https://gitlab.com/ARohitt/vision-based-automation-lab.git
 
 
 
-Any suggestions or queries, contact me on [ARohitt](rohit.asegaonkar18@vit.edu, "rohit.asegaonkar18@vit.edu").
+Any suggestions or queries, contact me on [ARohitt](mail:rohit.asegaonkar18@vit.edu, "rohit.asegaonkar18@vit.edu").
 ###### USE THIS REPO FOR EDUCATIONAL OR ANY PURPOSE AND STAR THE REPO AFTER USING IT.
