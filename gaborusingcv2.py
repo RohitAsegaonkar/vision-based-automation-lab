@@ -7,7 +7,8 @@ import numpy as np
 import math
 import matplotlib.pyplot as plt 
     
-image = cv2.imread('spider.jpeg')
+image = cv2.imread('images/spider.jpeg')
+image2 = cv2.imread('images/saturn2.png')
 
 kern1 = cv2.getGaborKernel((5, 5), 2.0, 0, 4.0, 0.5, 0, ktype=cv2.CV_64F)
 kern2 = cv2.getGaborKernel((5, 5), 2.0, np.pi/4, 4.0, 0.5, 0, ktype=cv2.CV_64F)
@@ -34,8 +35,15 @@ res1_test = cv2.add(res_test,filtered_img_fortyfive_test)
 error = cv2.norm(res1, res1_test, normType=cv2.NORM_L2)
 print(error)
 
-plt.subplot(121)
+textstr = "Euclidean Distance Between two images is " + str(error)
+plt.gcf().text(0.4, 0.1, textstr, fontsize=14)
+plt.subplot(131)
+plt.title("Original Image")
+plt.imshow(image)
+plt.subplot(132)
+plt.title("Filtered Image")
 plt.imshow(res1)
-plt.subplot(122)
+plt.subplot(133)
+plt.title("Test Image")
 plt.imshow(res1_test)
 plt.show()
