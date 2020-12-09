@@ -8,7 +8,7 @@ import math
 import matplotlib.pyplot as plt 
     
 image = cv2.imread('images/spider.jpeg')
-image2 = cv2.imread('images/saturn2.png')
+image2 = cv2.imread('Results/CameraImage2.png')
 
 kern1 = cv2.getGaborKernel((5, 5), 2.0, 0, 4.0, 0.5, 0, ktype=cv2.CV_64F)
 kern2 = cv2.getGaborKernel((5, 5), 2.0, np.pi/4, 4.0, 0.5, 0, ktype=cv2.CV_64F)

@@ -3,12 +3,12 @@
 ### All Labs listed below are completed in my academic-course related to **Image Processing**.
 
 Clone the Repo using following command in Terminal:
-```py
-https://gitlab.com/ARohitt/vision-based-automation-lab.git
+```.py
+git clone https://gitlab.com/ARohitt/vision-based-automation-lab.git
 ```
 OR
-```py
-https://github.com/RohitAsegaonkar/vision-based-automation-lab.git
+```.py
+git clone https://github.com/RohitAsegaonkar/vision-based-automation-lab.git
 ```
 |Sr. No.| Name of File  | Description of Lab | Output/Result     |
 |-------|--------|----------|------------|
@@ -22,6 +22,7 @@ https://github.com/RohitAsegaonkar/vision-based-automation-lab.git
 |8.|lpf.py| Low Pass Filtering(Averaging) of<br> an Image.| <img src = "Results/lpf.png" width = "150">|
 |9.|Gabor_kernel.py | Calculating 7X7 Gabor Kernel(Matrix)<br> with θ = 0°, 45° and 90°.|[Gabor Kernel File](https://gitlab.com/ARohitt/vision-based-automation-lab/-/blob/master/Results/gaborcoeff.txt)|
 |10.|gaborusingcv2.py| Implemented Gabor Filter on Image<br> and Calculated Euclidean Norm between<br> Filtered and Test Image.|<img src = "Results/gabo_classify2.png" width= "150"> <br><img src = "Results/gabor_classify.png" width = "150">|
+|11.|3DGabor_Transform.py|3D Visualization of Gabor Transform(Gaussian, First Derivative and Laplacian).|<img src = "Results/3dgabor.png" width = "150">|
 
 <br>
 
