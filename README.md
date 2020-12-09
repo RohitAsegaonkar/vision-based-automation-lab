@@ -13,7 +13,7 @@
 |3DgaussianFilter.py| 3D visualization of Gaussian Curve.|<img src = "Results/3dgaussian.png" width = "150">|
 |lpf.py| Low Pass Filtering(Averaging) of<br> an Image.| <img src = "Results/lpf.png" width = "150">|
 |Gabor_kernel.py | Calculating 7X7 Gabor Kernel(Matrix)<br> with θ = 0°, 45° and 90°.|"Results/gaborcoeff.txt"|
-|gaborusingcv2.py| Implemented Gabor Filter on Image<br> and Calculated Euclidean Norm between<br> Filtered and Test Image.|<img src = "Results/gabor_classify2.png" width= "150"> <br><img src = "Results/gabor_classify.png" width = "150">|
+|gaborusingcv2.py| Implemented Gabor Filter on Image<br> and Calculated Euclidean Norm between<br> Filtered and Test Image.|<img src = "Results/gabo_classify2.png" width= "150"> <br><img src = "Results/gabor_classify.png" width = "150">|
 
 <br>
 
