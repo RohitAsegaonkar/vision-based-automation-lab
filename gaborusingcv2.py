@@ -22,8 +22,8 @@ res = cv2.add(filtered_img_zero,filtered_img_ninety)
 res1 = cv2.add(res,filtered_img_fortyfive)
 
 kern1_test = cv2.getGaborKernel((5, 5), 2.0, 0, 4.0, 0.5, 0, ktype=cv2.CV_64F)
-kern2_test = cv2.getGaborKernel((5, 5), 2.0, np.pi/4, 4.0, 0.5, 0, ktype=cv2.CV_64F)
-kern3_test = cv2.getGaborKernel((5, 5), 2.0, np.pi/2, 4.0, 0.5, 0, ktype=cv2.CV_64F)
+kern2_test = cv2.getGaborKernel((5, 5), 2.0, np.pi/6, 4.0, 0.5, 0, ktype=cv2.CV_64F)
+kern3_test = cv2.getGaborKernel((5, 5), 2.0, np.pi/3, 4.0, 0.5, 0, ktype=cv2.CV_64F)
 
 filtered_img_zero_test = cv2.filter2D(image,-1,kern1_test)
 filtered_img_fortyfive_test = cv2.filter2D(image,-1,kern2_test)
