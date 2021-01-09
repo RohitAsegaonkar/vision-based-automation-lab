@@ -1,15 +1,12 @@
 # Vision Based Automation Lab
 ## 
-### All Labs listed below are completed in my academic-course related to **Image Processing**.
+### All Labs listed below are completed in my academic-course 2020 -21 related to **Image Processing**.
 
 Clone the Repo using following command in Terminal:
 ```.py
 git clone https://gitlab.com/ARohitt/vision-based-automation-lab.git
 ```
-OR
-```.py
-git clone https://github.com/RohitAsegaonkar/vision-based-automation-lab.git
-```
+
 |Sr. No.| Name of File  | Description of Lab | Output/Result     |
 |-------|--------|----------|------------|
 | 1.|Lab1.py| Capture Image and Video <br /> from webcam of laptop.|<img src = "Results/CameraImage.png" width="150"/>|
@@ -28,5 +25,7 @@ git clone https://github.com/RohitAsegaonkar/vision-based-automation-lab.git
 
 
 
-Any suggestions or queries, contact me on [ARohitt](mailto:rohit.asegaonkar18@vit.edu).
-###### USE THIS REPO FOR EDUCATIONAL OR ANY PURPOSE AND STAR THE REPO AFTER USING IT.
+Any suggestions or queries, contact me on [ARohitt](mailto:rohit.asegaonkar18@vit.edu).<br>
+<img src = "https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" width = "30" alt = "https://www.instagram.com/rohitasegaonkar/?hl=de">
+
+###### USE THIS REPO FOR EDUCATIONAL OR ANY PURPOSE AND SHARE THE REPO AFTER USING IT.
