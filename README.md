@@ -26,6 +26,22 @@ git clone https://gitlab.com/ARohitt/vision-based-automation-lab.git
 
 
 Any suggestions or queries, contact me on [ARohitt](mailto:rohit.asegaonkar18@vit.edu).<br>
-<img src = "https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" width = "30" alt = "https://www.instagram.com/rohitasegaonkar/?hl=de">
+<a href="https://www.instagram.com/rohitasegaonkar/?hl=de">
+     <img alt="Qries" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png"
+         width="30" height="29">
+</a>
+<a href="https://www.facebook.com/hatch.damp">
+     <img alt="Qries" src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19753.png"
+         width="34" height="33">
+</a>
+<a href="https://www.linkedin.com/in/rohit-asegaonkar-b8657216a/">
+     <img alt="Qries" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"
+         width="30" height="29">
+</a>
+<a href="https://github.com/RohitAsegaonkar">
+     <img alt="Qries" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png"
+         width="30" height="29">
+</a>
+
 
 ###### USE THIS REPO FOR EDUCATIONAL OR ANY PURPOSE AND SHARE THE REPO AFTER USING IT.
