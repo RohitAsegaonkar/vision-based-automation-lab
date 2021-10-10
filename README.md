@@ -4,7 +4,7 @@
 
 Clone the Repo using following command in Terminal:
 ```.py
-https://github.com/RohitAsegaonkar/vision-based-automation-lab.git
+git clone https://github.com/RohitAsegaonkar/vision-based-automation-lab.git
 ```
 
 |Sr. No.| Name of File  | Description of Lab | Output/Result     |
